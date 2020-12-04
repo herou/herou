@@ -2,11 +2,6 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square0&logo=Medium&link=https://medium.com/@elioprifti)](https://medium.com/@elioprifti)
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square0&logo=twitter&link=https://twitter.com/eljoprifti1)](https://twitter.com/eljoprifti1)
 
-
-<br></br>
-![Github stats](https://github-readme-stats.vercel.app/api?username=herou)
-
-
 <br></br>
 <a href="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true" />
