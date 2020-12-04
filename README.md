@@ -5,3 +5,12 @@
 
 <br></br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=herou)
+
+
+<br></br>
+<a href="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact" />
+</a>
