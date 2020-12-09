@@ -6,6 +6,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact&theme=dark" />
 </a>
