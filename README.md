@@ -3,8 +3,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-white?style=flat-square0&logo=twitter&link=https://twitter.com/eljoprifti1)](https://twitter.com/eljoprifti1)
 
 <br></br>
-<a href="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&include_all_commits=true&count_private=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=herou&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herou&layout=compact" />
