@@ -1,7 +1,7 @@
 Hi 👋 My name is Eljo
 =====================
 
-Android/Blockchain Developer
+Android && Blockchain Developer
 ----------------------------
 
 Hi and welcome to my profile. I have 6+ years as a professional Android Developer in the market and 1+ years contributing as Substrate/Blockchain dev.
