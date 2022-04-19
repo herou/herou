@@ -1,12 +1,12 @@
 Hi 👋 My name is Eljo
 =====================
 
-Android/Blockchain Developer
+Android && Blockchain Developer
 ----------------------------
 
 Hi and welcome to my profile. I have 6+ years as a professional Android Developer in the market and 1+ years contributing as Substrate/Blockchain dev.
 
-* 🌍  I'm based in Vienna, Austria / Earth
+* 🌍  I'm based in Vienna, Austria / Remote
 * ✉️  You can contact me at [elioprifti@gmail.com](mailto:elioprifti@gmail.com)
 * 🧠  I'm learning Substrate/Rust
 * 🤝  I'm open to collaborating on Substrate projects
