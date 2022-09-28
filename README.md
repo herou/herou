@@ -6,8 +6,7 @@ Android && Blockchain Developer
 
 Hi and welcome to my profile. I have 6+ years as a professional Android Developer in the market and 1+ years contributing as Substrate/Blockchain dev.
 
-* 🌍  I'm based in Vienna, Austria / Remote
-* ✉️  You can contact me at [elioprifti@gmail.com](mailto:elioprifti@gmail.com)
+* 🌍  I'm based in Earth
 * 🧠  I'm learning Substrate/Rust
 * 🤝  I'm open to collaborating on Substrate projects
 * ⚡  How we're gonna educate the next generation?
@@ -20,10 +19,6 @@ Hi and welcome to my profile. I have 6+ years as a professional Android Develope
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="36" height="36" alt="Kotlin" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/herou" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elioprifti/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@elioprifti" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/eljoprifti1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
