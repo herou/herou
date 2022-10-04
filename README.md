@@ -1,4 +1,4 @@
-Hi 👋 My name is Eljo
+Hi 👋 
 =====================
 
 Android && Blockchain Developer
