@@ -8,7 +8,7 @@ Hi and welcome to my profile. I have 6+ years as a professional Android Develope
 
 * 🌍  I'm based in Earth
 * 🧠  I'm building on Substrate/Rust
-* 🤝  I'm open to work Blockchain ideas
+* 🤝  I'm open to work on Blockchain ideas
 * ⚡  How we're gonna educate the next generation?
 
 ### Skills
