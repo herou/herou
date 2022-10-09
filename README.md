@@ -19,6 +19,9 @@ Hi and welcome to my profile. I have 6+ years as a professional Android Develope
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" width="36" height="36" alt="Kotlin" /></a>
 </p>
 
+### Socials
+<a href="https://twitter.com/e_herou1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
 ### Badges
 
