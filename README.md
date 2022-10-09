@@ -7,8 +7,8 @@ Android && Blockchain Developer
 Hi and welcome to my profile. I have 6+ years as a professional Android Developer in the market and 1+ years contributing as Substrate/Blockchain dev.
 
 * 🌍  I'm based in Earth
-* 🧠  I'm learning Substrate/Rust
-* 🤝  I'm open to collaborating on Substrate projects
+* 🧠  I'm building on Substrate/Rust
+* 🤝  I'm open to work Blockchain ideas
 * ⚡  How we're gonna educate the next generation?
 
 ### Skills
