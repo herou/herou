@@ -6,9 +6,8 @@ Android Developer
 
 Hi and welcome to my profile. I have 10+ years as a professional Android Developer in the market
 
-* 🌍  I'm based in Earth
-* 🧠  I'm building on Substrate/Rust
-* 🤝  I'm open to work on Blockchain ideas
+* 🌍  I'm based on Earth
+* 🤝  I'm open to working smart ideas
 * ⚡  How are we gonna educate the next generation?
 
 ### Skills
