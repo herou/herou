@@ -8,7 +8,6 @@ Hi and welcome to my profile. I have 10+ years as a professional Android Develop
 
 * 🌍  I'm based on Earth
 * 🤝  I'm open to working smart ideas
-* ⚡  How are we gonna educate the next generation?
 
 ### Skills
 
