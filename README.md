@@ -4,7 +4,7 @@ Hi 👋
 Mobile Developer
 ----------------------------
 
-Hi and welcome to my profile. I have 10+ years as a professional Android Developer in the market
+Hi and welcome to my profile. I have 10+ years as a professional Mobile Developer in the market
 
 * 🌍  I'm based on Earth
 * 🤝  I'm open to working smart ideas
