@@ -1,7 +1,7 @@
 Hi 👋 
 =====================
 
-Mobile Developer
+Android & KMP Developer
 ----------------------------
 
 Hi and welcome to my profile. I have 10+ years as a professional Mobile Developer in the market
